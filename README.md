@@ -15,8 +15,7 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/6302638973/FRT-Project/
 
 
 
-EduWell is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
-
+Decorative Services is our project. In this website we provide some decorative services like home decorate, office decorate etc. if any one interested they can request for a call back by giving their details. 
 # Features
 -  Good UI
 
@@ -98,3 +97,4 @@ We are  BTech pursuing Students,from 3rd year considered this as problem as we f
 
 # Privacy Policies 
 
+https://www.freeprivacypolicy.com/live/5ddadaa3-80f9-4eb7-9e05-7e31b56b2a22
