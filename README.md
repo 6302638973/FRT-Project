@@ -64,29 +64,37 @@ EduWell is my project that is done as also called an online course, is any cours
 # Deployment  Screenshots
 
 - Azure Environment
-- ![azure](https://user-images.githubusercontent.com/85716910/198466082-e678fd3f-20d2-44c6-b86c-c516d4ba3682.PNG)
+
+- ![Nandini azr cap](https://user-images.githubusercontent.com/112416795/202265761-393b27f8-8912-4071-91b2-d709759f7310.jpg)
+
 
 
 - Github Runtime Actions
-- ![keerthi](https://user-images.githubusercontent.com/85716910/198419187-b0398e18-3559-43b6-b656-ea37a3862f5c.PNG)
+
+-![nandini github act](https://user-images.githubusercontent.com/112416795/202265843-979da0c4-7456-496d-931b-e653288ebbe1.jpg)
 
 # Project WorkFlow
 
-![workflow](https://user-images.githubusercontent.com/85716910/198467281-4b2e349b-3426-4c79-966a-05557f91100a.PNG)
+![Nandini wrkflow file](https://user-images.githubusercontent.com/112416795/202265921-39d05d15-b5cf-40da-9141-f5df1332e964.jpg)
 
  
 # Screenshots
-![keerthi jr frp pc cap](https://user-images.githubusercontent.com/85716910/197338213-1d7c86d4-9f9e-431a-b0ab-29bd9dbc6cdb.PNG)
-![keerthi jr frp mob cap](https://user-images.githubusercontent.com/85716910/197338218-a21d0704-a24e-463f-bc5f-5d23c52040b9.PNG)
+
+![nandini pc cap](https://user-images.githubusercontent.com/112416795/202266136-1f4e3173-dca2-4893-ab96-94233ee45fc7.jpg)!
+[Nandini mob cap](https://user-images.githubusercontent.com/112416795/202266151-6d3055bd-ca1f-4f52-b88f-a267a700c56c.jpg)
+
+
 
 
 # About Us
-i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
+We are  BTech pursuing Students,from 3rd year considered this as problem as we facing the same situtaion regularly.
 
--  Keerthi Korumilli
+-  Mannam Nandini
+
+-  Purni Jyothi
+
+-  Penjarla Deepthi Sai Lakshmi
 
 
 # Privacy Policies 
-[
-https://www.freeprivacypolicy.com/live/a6b55d2e-c44e-4be6-9df2-b0f291e811db
-](https://www.freeprivacypolicy.com/live/1a7a1db0-cec6-476b-82f3-f2ede8e0362b)
+
