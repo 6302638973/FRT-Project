@@ -6,7 +6,7 @@ AZURE LINK : https://purple-moss-0f9282600.2.azurestaticapps.net
 
 YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 
-PROJECT DEMO URL: 
+PROJECT DEMO URL: https://6302638973.github.io/FRT-Project/
 
 
 PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
