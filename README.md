@@ -15,7 +15,7 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/6302638973/FRT-Project/
 
 
 
-Decorative Services is our project. In this website we provide some decorative services like home decorate, office decorate etc. if any one interested they can request for a call back by giving their details. 
+Decorative Services is our project. In this website we provide some decorative services like home decorate, office decorate etc. if any one interested they can request for a call back by giving their details. so that the people can save their time and they get best services according to their prices.
 # Features
 -  Good UI
 
